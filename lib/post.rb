@@ -17,7 +17,8 @@ class Post
   end
   
   def title
-    return self.title
-    
-  end
+    self.title
+     end
+     
+     
 end
